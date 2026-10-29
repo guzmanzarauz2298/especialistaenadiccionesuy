@@ -1,0 +1,185 @@
+<title>Contenido Adicciones UY</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+  /* Layout: cabecera de marca fija, tiles de resumen, leyenda de embudo, y 6 semanas en tarjetas */
+  :root{
+    --bg:#0C1210; --bg2:#101916; --surface:#15211C; --surface2:#1A2820;
+    --line:#26342C; --ivory:#EDE8DC; --muted:#9FACA2;
+    --gold:#C9A15A; --gold2:#E0BE7E;
+    --atraer:#6FA08F; --considerar:#C9A15A; --actuar:#25D366; --escalar:#C8705E;
+    --fd:'Fraunces',Georgia,serif; --fb:'Inter',system-ui,sans-serif;
+    color-scheme:dark;
+  }
+  *{box-sizing:border-box}
+  body{background:var(--bg);color:var(--ivory);font-family:var(--fb);line-height:1.5;
+    background-image:
+      radial-gradient(900px 600px at 88% -5%, rgba(201,161,90,.10), transparent 60%),
+      radial-gradient(900px 700px at -5% 102%, rgba(111,160,143,.07), transparent 60%);
+    background-attachment:fixed;}
+  .wrap{max-width:1120px;margin-inline:auto;
+    padding-left:max(20px, env(safe-area-inset-left,0px));
+    padding-right:max(20px, env(safe-area-inset-right,0px));
+    padding-block:38px 72px;}
+  a{color:inherit}
+
+  /* Cabecera */
+  .head{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-bottom:10px}
+  .mark{width:54px;height:54px;border-radius:50%;border:1px solid rgba(201,161,90,.4);
+    background:#000;display:flex;align-items:center;justify-content:center;flex:0 0 auto}
+  .mark svg{width:40px;height:40px}
+  .head h1{font-family:var(--fd);font-weight:600;font-size:clamp(1.5rem,3.4vw,2.1rem);
+    letter-spacing:-.01em;margin:0;line-height:1.1;text-wrap:balance}
+  .head .ey{font-size:.72rem;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);margin-bottom:4px}
+  .head p{color:var(--muted);font-size:.95rem;margin:2px 0 0}
+
+  /* Tiles resumen */
+  .tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:30px 0}
+  .tile{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:20px}
+  .tile b{font-family:var(--fd);font-size:2rem;font-weight:600;color:var(--gold2);display:block;font-variant-numeric:tabular-nums;line-height:1}
+  .tile span{font-size:.82rem;color:var(--muted);display:block;margin-top:8px}
+
+  /* Leyenda embudo */
+  .legend{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:0 0 34px}
+  .legend .lb{font-size:.8rem;color:var(--muted);margin-right:4px}
+  .pill{display:inline-flex;align-items:center;gap:8px;font-size:.76rem;font-weight:600;
+    padding:6px 13px;border-radius:999px;border:1px solid var(--pc);color:var(--pc)}
+  .pill::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--pc)}
+  .s-atraer{--pc:var(--atraer)} .s-considerar{--pc:var(--considerar)}
+  .s-actuar{--pc:var(--actuar)} .s-escalar{--pc:var(--escalar)}
+
+  /* Semanas */
+  .week{margin-bottom:34px}
+  .week>h2{font-family:var(--fd);font-size:1.15rem;font-weight:600;margin:0 0 4px;
+    display:flex;align-items:baseline;gap:12px}
+  .week>h2 .n{color:var(--gold)}
+  .week>h2 .phase{font-family:var(--fb);font-size:.74rem;font-weight:500;color:var(--muted);letter-spacing:.02em}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:14px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;
+    display:flex;flex-direction:column;gap:10px;min-width:0;transition:border-color .2s,transform .2s}
+  .card:hover{border-color:rgba(201,161,90,.45);transform:translateY(-2px)}
+  .card .top{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .day{font-size:.72rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .fmt{font-size:.66rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--gold2);
+    border:1px solid rgba(201,161,90,.35);border-radius:999px;padding:3px 9px;white-space:nowrap}
+  .card h3{font-family:var(--fd);font-size:1.05rem;font-weight:600;margin:0;line-height:1.15;color:var(--ivory)}
+  .card p{font-size:.84rem;color:var(--muted);margin:0;min-width:0}
+  .card .foot{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:auto;padding-top:4px}
+  .mini{font-size:.72rem;font-weight:600;padding:4px 10px;border-radius:999px;border:1px solid var(--pc);color:var(--pc)}
+  .ready{font-size:.72rem;color:var(--atraer);display:flex;align-items:center;gap:6px}
+  .ready::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--atraer)}
+  .stories{margin-top:12px;background:var(--bg2);border:1px dashed var(--line);border-radius:14px;
+    padding:12px 16px;font-size:.82rem;color:var(--muted);display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .stories b{color:var(--gold2);font-weight:600}
+
+  .note{margin-top:40px;background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--gold);
+    border-radius:14px;padding:20px 22px;color:var(--muted);font-size:.9rem}
+  .note b{color:var(--ivory)}
+  .foot-bar{margin-top:40px;text-align:center;color:var(--muted);font-size:.82rem}
+  .foot-bar b{color:var(--gold2)}
+
+  @media (max-width:760px){ .tiles{grid-template-columns:repeat(2,1fr)} .grid{grid-template-columns:1fr} }
+</style>
+
+<div class="wrap">
+  <header class="head">
+    <span class="mark" aria-hidden="true">
+      <svg viewBox="0 0 400 340"><path d="M60,190 C55,150 75,110 110,95 C120,60 165,45 195,60 C215,35 265,35 285,60 C320,55 345,85 340,115 C365,130 370,170 350,195 C355,225 330,250 300,250 C285,275 245,285 220,270 C200,290 160,290 145,265 C110,270 80,245 82,215 C65,210 60,200 60,190 Z" fill="none" stroke="#C9A15A" stroke-width="7" stroke-linejoin="round"/><path d="M200,70 C195,100 210,120 235,118" fill="none" stroke="#C9A15A" stroke-width="6"/><path d="M110,170 C140,160 160,175 165,205" fill="none" stroke="#C9A15A" stroke-width="6"/><circle cx="200" cy="58" r="9" fill="#C9A15A"/></svg>
+    </span>
+    <div>
+      <div class="ey">Especialista en Adicciones · Uruguay</div>
+      <h1>Plan de contenido · Instagram</h1>
+      <p>26 piezas listas · embudo de terapia individual hacia Creavida · 6 semanas</p>
+    </div>
+  </header>
+
+  <section class="tiles">
+    <div class="tile"><b>26</b><span>piezas listas para publicar</span></div>
+    <div class="tile"><b>16</b><span>posts de feed (incluye 1 carrusel)</span></div>
+    <div class="tile"><b>6</b><span>historias para Stories</span></div>
+    <div class="tile"><b>6</b><span>semanas de calendario</span></div>
+  </section>
+
+  <div class="legend">
+    <span class="lb">Etapas del embudo:</span>
+    <span class="pill s-atraer">Atraer</span>
+    <span class="pill s-considerar">Considerar</span>
+    <span class="pill s-actuar">Actuar</span>
+    <span class="pill s-escalar">Escalar cuidado</span>
+  </div>
+
+  <div id="weeks"></div>
+
+  <div class="note">
+    <b>Criterio del plan.</b> Arranca generando confianza (educar, desestigmatizar), mete el
+    carrusel temprano para ganar alcance, y deja Creavida y los llamados a la acción para cuando
+    ya hay comunidad y contexto. En salud mental evitamos el miedo y la culpa: la internación se
+    presenta como un acto de cuidado, nunca como un fracaso. Textos completos de cada pieza en
+    <b>social/CONTENIDO.md</b>.
+  </div>
+
+  <div class="foot-bar">
+    Reservas por WhatsApp <b>093 633 633</b> · <b>especialistaenadicciones.uy</b>
+  </div>
+</div>
+
+<script>
+  const S = {
+    atraer:['Atraer','s-atraer'], considerar:['Considerar','s-considerar'],
+    actuar:['Actuar','s-actuar'], escalar:['Escalar','s-escalar']
+  };
+  const weeks = [
+    { n:1, phase:'Presentación y confianza', stories:['s2 · Frase de esperanza','s1 · Reservá tu consulta'],
+      posts:[
+        ['Lun','Marca','La mente también se recupera','Feed','atraer'],
+        ['Mié','Desestigmatización','La adicción no es falta de voluntad','Feed','atraer'],
+        ['Vie','Servicios','Un abordaje para cada etapa','Feed','considerar'],
+      ]},
+    { n:2, phase:'Alcance con el carrusel', stories:['s4 · ¿Sabías que...?','s1 · Reservá tu consulta'],
+      posts:[
+        ['Lun','4 mitos','Carrusel que desarma mitos sobre adicciones','Carrusel','atraer'],
+        ['Mié','Esperanza','Pedir ayuda no es rendirse. Es empezar','Feed','atraer'],
+        ['Vie','Señales','Cuando el consumo deja de ser una elección','Feed','considerar'],
+      ]},
+    { n:3, phase:'Profundizar y dar confianza', stories:['s2 · Frase de esperanza','s3 · No esperes a tocar fondo'],
+      posts:[
+        ['Lun','Recaída','La recaída no borra el progreso','Feed','atraer'],
+        ['Mié','Psiquiatría online','Tu receta, sin moverte de casa','Feed','considerar'],
+        ['Vie','Confidencialidad','¿Es confidencial? Sí, siempre','Feed','considerar'],
+      ]},
+    { n:4, phase:'Vínculos y acompañamiento', stories:['s5 · Empezá por escuchar','s1 · Reservá tu consulta'],
+      posts:[
+        ['Lun','Comportamentales','No todas las adicciones son a una sustancia','Feed','considerar'],
+        ['Mié','Familia','Cuando uno consume, toda la familia siente','Feed','considerar'],
+        ['Vie','Acompañar','¿Cómo ayudar a quien no pide ayuda?','Feed','considerar'],
+      ]},
+    { n:5, phase:'Hacia la acción', stories:['s3 · No esperes a tocar fondo','s6 · Agendá esta semana'],
+      posts:[
+        ['Lun','Abordaje integral','Psicología y psiquiatría, mejor juntas','Feed','considerar'],
+        ['Mié','Empresas','El consumo también entra a la oficina','Feed','considerar'],
+        ['Vie','CTA','Tu primer mensaje queda entre nosotros','Feed','actuar'],
+      ]},
+    { n:6, phase:'Escalón de cuidado y cierre', stories:['s4 · ¿Sabías que...?','s6 · Agendá esta semana'],
+      posts:[
+        ['Lun','Creavida','A veces, empezar de nuevo necesita un lugar','Feed','escalar'],
+        ['Mié','Esperanza','Repost — Pedir ayuda no es rendirse','Feed','atraer'],
+        ['Vie','CTA','Repost — Escribinos por WhatsApp','Feed','actuar'],
+      ]},
+  ];
+  const el = document.getElementById('weeks');
+  el.innerHTML = weeks.map(w => `
+    <section class="week">
+      <h2><span class="n">Semana ${w.n}</span> <span class="phase">${w.phase}</span></h2>
+      <div class="grid">
+        ${w.posts.map(([day,tag,hook,fmt,stage]) => `
+          <article class="card">
+            <div class="top"><span class="day">${day} · ${tag}</span><span class="fmt">${fmt}</span></div>
+            <h3>${hook}</h3>
+            <div class="foot">
+              <span class="mini ${S[stage][1]}">${S[stage][0]}</span>
+              <span class="ready">Listo</span>
+            </div>
+          </article>`).join('')}
+      </div>
+      <div class="stories">🎬 <b>Historias:</b> ${w.stories.join('  ·  ')}</div>
+    </section>`).join('');
+</script>

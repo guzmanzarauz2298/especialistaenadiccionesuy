@@ -1,0 +1,6 @@
+# HTML intermedios: se regeneran con `node build.js`
+pages/
+manifest.json
+
+# Verificación local del calendario
+out/_calendario.png
