@@ -192,14 +192,14 @@ const POSTS = [
   { id:'09-cta', ...F, titleSize:78,
     kicker:'Confidencial',
     title:'Tu primer mensaje<br><em>queda entre nosotros</em>',
-    wa:'093 633 633',
+    wa:'099 134 136',
     subBottom:'Escribinos por WhatsApp y coordinamos tu primera consulta.' },
 
   // ---- STORIES ----
   { id:'s1-reserva', ...S, brain:.12, titleSize:92,
     kicker:'Reservá tu consulta',
     title:'Dar el primer paso<br><em>también es parte</em>',
-    wa:'093 633 633',
+    wa:'099 134 136',
     subBottom:'Psicología y psiquiatría · Uruguay · especialistaenadicciones.uy' },
 
   { id:'s2-frase', ...S, frame:true,
@@ -208,7 +208,7 @@ const POSTS = [
   { id:'s3-tip', ...S, brain:.1, titleSize:86,
     kicker:'Hoy',
     title:'No esperes a tocar fondo<br><em>para pedir ayuda</em>',
-    wa:'093 633 633',
+    wa:'099 134 136',
     subBottom:'Estamos del otro lado para escucharte.' },
 ];
 
@@ -235,7 +235,7 @@ const BATCH2 = [
     kicker:'Mito 04',
     myth:'“Si recae, fracasó.”',
     real:'La recaída puede ser parte del proceso, no el final. Se aprende de ella y se sigue adelante.',
-    subBottom:'¿Hablamos? WhatsApp 093 633 633 · especialistaenadicciones.uy' },
+    subBottom:'¿Hablamos? WhatsApp 099 134 136 · especialistaenadicciones.uy' },
 
   // ---- POSTS sueltos ----
   { id:'11-recaida', ...F,
@@ -252,7 +252,7 @@ const BATCH2 = [
     kicker:'Para quien acompaña',
     title:'¿Cómo ayudar a alguien<br>que <em>no pide ayuda</em>?',
     list:['Escuchá sin juzgar ni sermonear','Informate sobre lo que le pasa','Cuidá también tu propio límite','Buscá orientación profesional'],
-    subBottom:'También podemos orientarte a vos. Escribinos al 093 633 633.' },
+    subBottom:'También podemos orientarte a vos. Escribinos al 099 134 136.' },
 
   { id:'14-empresas', ...F,
     kicker:'Psicología para empresas',
@@ -273,7 +273,7 @@ const BATCH2 = [
   { id:'s4-dato', ...S, brain:.1, titleSize:84,
     kicker:'¿Sabías que...?',
     title:'Pedir ayuda temprano<br><em>acorta el camino</em>',
-    wa:'093 633 633',
+    wa:'099 134 136',
     subBottom:'Cuanto antes, mejor. Estamos del otro lado.' },
 
   { id:'s5-acompanar', ...S, frame:true,
@@ -282,7 +282,7 @@ const BATCH2 = [
   { id:'s6-agenda', ...S, brain:.12, titleSize:88,
     kicker:'Agendá hoy',
     title:'Un horario para vos<br><em>esta semana</em>',
-    wa:'093 633 633',
+    wa:'099 134 136',
     subBottom:'Presencial u online · especialistaenadicciones.uy' },
 ];
 
@@ -340,7 +340,7 @@ const BATCH3 = [
   { id:'s9-cierre', ...S, brain:.12, titleSize:86,
     kicker:'Cuando quieras',
     title:'El primer paso<br><em>lo das vos</em>',
-    wa:'093 633 633',
+    wa:'099 134 136',
     subBottom:'Te acompañamos el resto del camino. · Uruguay' },
 ];
 

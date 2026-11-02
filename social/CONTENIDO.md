@@ -3,7 +3,7 @@
 Kit inicial: **12 piezas** (9 para feed 4:5 + 3 historias 9:16) con sus textos, la
 estrategia de embudo y un calendario de 3 semanas. Imágenes en `social/out/`.
 
-WhatsApp: **093 633 633** · Web: **especialistaenadicciones.uy**
+WhatsApp: **099 134 136** · Web: **especialistaenadicciones.uy**
 
 ---
 
@@ -39,7 +39,7 @@ Somos un espacio especializado en adicciones y salud mental en Uruguay. Psicolog
 psiquiatría, con atención confidencial, presencial u online.
 
 Si estás buscando un lugar donde empezar —para vos o para alguien que querés— este puede serlo.
-Escribinos por WhatsApp al **093 633 633**. Te escuchamos. 💬
+Escribinos por WhatsApp al **099 134 136**. Te escuchamos. 💬
 
 *#Adicciones #SaludMental #Uruguay #Recuperación #Psicología #BienestarEmocional*
 
@@ -67,7 +67,7 @@ A veces cuesta darse cuenta. Algunas señales:
 › Afecta tu trabajo o tus vínculos
 
 Si algo de esto te resuena —en vos o en alguien cercano— hablarlo es el primer paso.
-Escribinos al **093 633 633**, en total confidencialidad.
+Escribinos al **099 134 136**, en total confidencialidad.
 
 *#Adicciones #SeñalesDeAlerta #SaludMental #Uruguay #ConsumoProblemático #AyudaProfesional*
 
@@ -94,7 +94,7 @@ Cuando quieras darlo, estamos acá. 🧠💬
 ✓ Psiquiatría online con receta para tu mutualista
 
 Psicología: presencial u online. Psiquiatría: siempre online.
-Elegí la modalidad que mejor se adapte a vos y coordinamos por WhatsApp: **093 633 633**.
+Elegí la modalidad que mejor se adapte a vos y coordinamos por WhatsApp: **099 134 136**.
 
 *#Psicología #Psiquiatría #Adicciones #Uruguay #TerapiaOnline #SaludMental*
 
@@ -120,7 +120,7 @@ Psiquiatría 100% online: consultas por videollamada y recetas digitales con tod
 para presentar en tu mutualista o farmacia.
 
 Ideal si estás en el interior, tenés poco tiempo o preferís tu espacio. Coordiná la tuya al
-**093 633 633**.
+**099 134 136**.
 
 *#PsiquiatríaOnline #SaludMental #Uruguay #Telemedicina #Adicciones #Recetas*
 
@@ -134,7 +134,7 @@ acompañamos la **internación en Creavida**: un entorno de cuidado, con un equi
 cada paso del proceso.
 
 No es un fracaso: es darse las mejores condiciones para recuperarse. Si querés saber cómo es,
-escribinos al **093 633 633**.
+escribinos al **099 134 136**.
 
 *#Recuperación #Internación #Adicciones #Uruguay #Creavida #SaludMental*
 
@@ -146,7 +146,7 @@ escribinos al **093 633 633**.
 Dar el primer paso cuesta, y lo sabemos. Por eso el primer contacto es simple y confidencial:
 nos escribís, nos contás lo que te pasa y vemos juntos cómo seguir.
 
-📲 WhatsApp **093 633 633**
+📲 WhatsApp **099 134 136**
 🌐 especialistaenadicciones.uy
 
 *#Confidencial #Adicciones #SaludMental #Uruguay #PrimerPaso #AyudaPsicológica*
@@ -155,7 +155,7 @@ nos escribís, nos contás lo que te pasa y vemos juntos cómo seguir.
 
 ### HISTORIAS
 
-- **s1-reserva.png** — CTA directo. Poné encima el *sticker de enlace* a `wa.me/59893633633` y
+- **s1-reserva.png** — CTA directo. Poné encima el *sticker de enlace* a `wa.me/59899134136` y
   el *sticker de ubicación* "Uruguay". Texto sugerido al compartir: "Reservá tu consulta 👇".
 - **s2-frase.png** — Frase de esperanza. Ideal para destacar en Historias fijas y para
   compartir seguido; sumale el *sticker de pregunta*: "¿Qué te gustaría preguntarnos?".
@@ -191,7 +191,7 @@ nos escribís, nos contás lo que te pasa y vemos juntos cómo seguir.
 > Atención confidencial, sin juicios
 > 📲 Reservá 👇
 
-Enlace: `wa.me/59893633633` (o tu Linktree con WhatsApp + web).
+Enlace: `wa.me/59899134136` (o tu Linktree con WhatsApp + web).
 
 ---
 
@@ -219,7 +219,7 @@ de pedir ayuda. Estas son algunas de las más comunes:
 3️⃣ "Tiene que tocar fondo" → cuanto antes, mejor.
 4️⃣ "Si recae, fracasó" → la recaída puede ser parte del proceso.
 
-¿Te resuena alguno? Hablarlo es el primer paso. Escribinos al **093 633 633**. 💬
+¿Te resuena alguno? Hablarlo es el primer paso. Escribinos al **099 134 136**. 💬
 
 *#Adicciones #Mitos #SaludMental #Uruguay #ConsumoProblemático #Recuperación*
 
@@ -243,7 +243,7 @@ seguimos. Si estás en ese momento, no te castigues: escribinos y lo trabajamos 
 El juego y las apuestas online, las pantallas o las compras también pueden volverse un problema
 cuando aparece la pérdida de control. Si te pasa —o le pasa a alguien cercano— se puede tratar.
 
-Contanos por WhatsApp: **093 633 633**.
+Contanos por WhatsApp: **099 134 136**.
 
 *#Adicciones #ApuestasOnline #Ludopatía #SaludMental #Uruguay #Pantallas*
 
@@ -269,7 +269,7 @@ Acompañar también desgasta. Si estás del lado de quien sostiene, también pod
 Ausentismo, accidentes, un clima que se tensa. El consumo problemático impacta en los equipos.
 Diseñamos programas de prevención y contención a medida de tu organización.
 
-¿Lo vemos? Escribinos: **093 633 633**.
+¿Lo vemos? Escribinos: **099 134 136**.
 
 *#PsicologíaLaboral #Empresas #Prevención #SaludMental #Uruguay #RRHH*
 
@@ -291,14 +291,14 @@ un solo plan pensado para vos. Así acompañamos cada proceso.
 Todo lo que compartís está protegido por el secreto profesional. Tu historia no sale de la
 consulta. Ese es el piso mínimo para que puedas hablar tranquilo/a.
 
-Escribinos cuando quieras: **093 633 633**.
+Escribinos cuando quieras: **099 134 136**.
 
 *#Confidencial #SaludMental #Adicciones #Uruguay #Terapia*
 
 ---
 
 ### HISTORIAS (tanda 2)
-- **s4-dato.png** — dato + WhatsApp. Sumá el sticker de enlace a `wa.me/59893633633`.
+- **s4-dato.png** — dato + WhatsApp. Sumá el sticker de enlace a `wa.me/59899134136`.
 - **s5-acompanar.png** — frase para familiares. Ideal con sticker de pregunta: "¿Te pasa?".
 - **s6-agenda.png** — recordatorio de agenda. Sticker de enlace al WhatsApp.
 
@@ -332,7 +332,7 @@ No es un día para la culpa, sino para una pregunta honesta: ¿qué lugar ocupa 
 A veces el consumo se vuelve costumbre y cuesta mirarlo de frente. Si querés revisarlo, no tenés
 que hacerlo solo/a.
 
-Escribinos cuando quieras: **093 633 633**. 💬
+Escribinos cuando quieras: **099 134 136**. 💬
 
 *#DíaSinAlcohol #Alcohol #SaludMental #Adicciones #Uruguay #Prevención*
 
@@ -347,7 +347,7 @@ Sí. La evidencia muestra resultados equivalentes. Lo que más importa es que pu
 proceso, así que elegís el formato que te quede más cómodo. (La psiquiatría es siempre online,
 con receta digital para tu mutualista.)
 
-¿Dudas? Preguntanos: **093 633 633**.
+¿Dudas? Preguntanos: **099 134 136**.
 
 *#TerapiaOnline #Psicología #Psiquiatría #SaludMental #Uruguay #FAQ*
 
@@ -359,7 +359,7 @@ con receta digital para tu mutualista.)
 No necesariamente. Cada plan se arma a tu medida y a tu ritmo, con objetivos realistas y
 alcanzables. Lo importante es empezar; el cómo lo definimos juntos, paso a paso.
 
-Hablemos sin compromiso: **093 633 633**. 💛
+Hablemos sin compromiso: **099 134 136**. 💛
 
 *#Adicciones #Recuperación #SaludMental #Uruguay #FAQ*
 
@@ -371,7 +371,7 @@ Hablemos sin compromiso: **093 633 633**. 💛
 No hay un número fijo. Depende de vos, de tu historia y de tus objetivos. Lo vamos revisando
 juntos en cada etapa, sin apuros y sin presiones. El ritmo lo marcás vos.
 
-Contanos tu caso: **093 633 633**.
+Contanos tu caso: **099 134 136**.
 
 *#Adicciones #Tratamiento #SaludMental #Uruguay #FAQ*
 
@@ -383,7 +383,7 @@ Contanos tu caso: **093 633 633**.
 Muchas personas llegan con vergüenza o con mil dudas. Del otro lado no hay juicio: hay un equipo
 que escucha y te ayuda a ordenar lo que sentís. Dar el primer paso ya es parte del proceso.
 
-Escribinos cuando estés listo/a: **093 633 633**.
+Escribinos cuando estés listo/a: **099 134 136**.
 
 *#SaludMental #Adicciones #Recuperación #Uruguay #PrimerPaso*
 
@@ -408,14 +408,14 @@ escribinos. Nadie cuenta mejor que se puede, que quien ya lo vivió.
 Cuando la terapia semanal no alcanza, Creavida ofrece un entorno seguro y un equipo que acompaña
 cada día del proceso, las 24 horas. No es el final del camino: es un nuevo comienzo, cuidado.
 
-Si querés saber cómo funciona, escribinos: **093 633 633**.
+Si querés saber cómo funciona, escribinos: **099 134 136**.
 
 *#Creavida #Internación #Adicciones #Recuperación #Uruguay #SaludMental*
 
 ---
 
 ### HISTORIAS (tanda 3)
-- **s7-efemeride.png** — Día Sin Alcohol (publicar el 15/11). Sticker de enlace a `wa.me/59893633633`.
+- **s7-efemeride.png** — Día Sin Alcohol (publicar el 15/11). Sticker de enlace a `wa.me/59899134136`.
 - **s8-faq.png** — "¿Online o presencial?". Ideal con sticker de encuesta: Online / Presencial.
 - **s9-cierre.png** — cierre con WhatsApp. Sticker de enlace al WhatsApp.
 

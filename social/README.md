@@ -34,7 +34,7 @@ Feed: **1080×1350** · Historias: **1080×1920**.
 
 ## Datos fijos
 
-- WhatsApp: **093 633 633** · `wa.me/59893633633`
+- WhatsApp: **099 134 136** · `wa.me/59899134136`
 - Web: **especialistaenadicciones.uy**
 - Servicios: psicología individual / familiar / empresas (presencial u online) y psiquiatría (solo online, con receta).
 - Embudo: redes → terapia individual → internación en **Creavida** (como escalón de cuidado).
